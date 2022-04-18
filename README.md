@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @priyankashinde-DS
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning Data $cience
 
 
