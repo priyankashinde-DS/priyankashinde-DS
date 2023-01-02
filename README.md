@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @priyankashinde-DS
-- 🌱 I’m currently learning Data $cience
+- Hi there 👋 
+
+# Priyanka Shinde
 
 
 
